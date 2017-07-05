@@ -6,3 +6,4 @@ second
 
 super
 new string
+new string 1
